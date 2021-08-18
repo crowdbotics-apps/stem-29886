@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/chat": "file:./modules/chat/",
+    "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/splash": "file:./modules/splash/",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/user-profile": "file:./modules/user-profile/",

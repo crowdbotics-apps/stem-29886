@@ -947,13 +947,18 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@modules/chat@file:./modules/chat/":
+"@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
     pubnub "^4.29.11"
     pubnub-react "^2.1.0"
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
+
+"@modules/privacy-policy@file:./modules/privacy-policy":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
 
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
